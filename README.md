@@ -1,0 +1,1 @@
+In my Titanic analysis project, I used data visualization to uncover survival trends based on gender, class, and age. Through clear graphs and charts, I highlighted how socio-economic status and gender impacted survival rates, demonstrating the power of visualization in making complex historical data comprehensible.
